@@ -6,4 +6,4 @@
 
 2) MegafonCase - предсказание на датасете с анонимизированными фичами https://www.kaggle.com/c/mf-bd-mgtu
 
-3)Language Detection - детектор языков https://www.kaggle.com/c/introml2020-3
+3) Language Detection - детектор языков https://www.kaggle.com/c/introml2020-3
