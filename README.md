@@ -13,3 +13,5 @@
 1) recommendations.ipynb - задание по построению различных рекомендательных систем
 
 2) ABHomework.ipynb - задание по проведению A/B тестов
+
+3) megafon_geo_hw_checkpoint.ipynb - гео задача по определению продаж фичерфонов в салонах Мегафон (тут еще есть kaggle https://www.kaggle.com/c/mf-mail-geo-hw/leaderboard)
